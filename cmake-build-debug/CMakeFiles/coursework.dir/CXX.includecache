@@ -1,0 +1,72 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Lenovo_302/work/c++/my labs/coursework/Cell.h
+Configuration.h
+C:/Users/Lenovo_302/work/c++/my labs/coursework/Configuration.h
+
+C:/Users/Lenovo_302/work/c++/my labs/coursework/Computer.cpp
+Computer.h
+C:/Users/Lenovo_302/work/c++/my labs/coursework/Computer.h
+
+C:/Users/Lenovo_302/work/c++/my labs/coursework/Computer.h
+Configuration.h
+C:/Users/Lenovo_302/work/c++/my labs/coursework/Configuration.h
+Player.h
+C:/Users/Lenovo_302/work/c++/my labs/coursework/Player.h
+
+C:/Users/Lenovo_302/work/c++/my labs/coursework/Configuration.h
+regex
+-
+iostream
+-
+string
+-
+fstream
+-
+cmath
+-
+conio.h
+-
+cstdlib
+-
+vector
+-
+unordered_map
+-
+windows.h
+-
+ctime
+-
+algorithm
+-
+random
+-
+
+C:/Users/Lenovo_302/work/c++/my labs/coursework/Field.h
+Configuration.h
+C:/Users/Lenovo_302/work/c++/my labs/coursework/Configuration.h
+Cell.h
+C:/Users/Lenovo_302/work/c++/my labs/coursework/Cell.h
+Ship.h
+C:/Users/Lenovo_302/work/c++/my labs/coursework/Ship.h
+
+C:/Users/Lenovo_302/work/c++/my labs/coursework/Player.h
+Configuration.h
+C:/Users/Lenovo_302/work/c++/my labs/coursework/Configuration.h
+Ship.h
+C:/Users/Lenovo_302/work/c++/my labs/coursework/Ship.h
+Field.h
+C:/Users/Lenovo_302/work/c++/my labs/coursework/Field.h
+
+C:/Users/Lenovo_302/work/c++/my labs/coursework/Ship.h
+Configuration.h
+C:/Users/Lenovo_302/work/c++/my labs/coursework/Configuration.h
+Cell.h
+C:/Users/Lenovo_302/work/c++/my labs/coursework/Cell.h
+
